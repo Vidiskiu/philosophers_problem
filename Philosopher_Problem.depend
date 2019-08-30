@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1525037167 source:c:\users\vidis\desktop\projects\c++\philosopher_problem\main.cpp
+	<iostream>
+	<conio.h>
+	<math.h>
+
